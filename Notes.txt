@@ -1,0 +1,5 @@
+Database:
+https://archive.ics.uci.edu/ml/datasets/Spambase
+
+Explication database:
+https://github.com/Luc-Bertin/Simple-Data-Analysis-Spambase
