@@ -10,4 +10,4 @@ We had the best results by applying Random Forest with only 40 False positives o
 
 This project made us able to predict if a mail is a spam or not with high precision and helped me understund better and improve my machine learning models and my Python and Git abilities.
 
-Thanks you for your interest,
+Thank you for your interest,
