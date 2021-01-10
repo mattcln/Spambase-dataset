@@ -8,6 +8,6 @@ During this project we tried mutliple models and tweeked parameters to find the 
 
 We had the best results by applying Random Forest with 40 False positives out of 4600 mails (1812 of them being spams).
 
-This project made us able to predict if a mail is a spam or not with high precision and helped me understund better and improve my machine learning models and my Python and Git abilities.
+This project made us able to predict if a mail is a spam or not with high precision and helped me understund better and improve my machine learning models and my Python & Git abilities.
 
 Thank you for your interest,
